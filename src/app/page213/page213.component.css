@@ -1,0 +1,21 @@
+
+a{
+    text-decoration:none;
+    }
+    .button {
+      padding: 4px 5px;
+      font-size:20px;
+      align:center;
+      cursor: pointer;
+      outline: none;
+      background-color:RGB(230, 230, 250);
+      border: none;
+      border-radius:12px;
+      box-shadow: 0 5px #999;
+    }
+    .button:hover {background-color:rgb(204, 255, 255)}
+    .button:active {
+      background-color:rgb(16, 136, 242  );
+      box-shadow: 0 5px #666;
+      transform: translateY(2px);
+    }

@@ -1,0 +1,11 @@
+ul#menu li {
+    display:inline;
+  }
+
+  ul img{
+    width: 25%;
+    padding:10px;
+  }
+  .img_title p{
+      text-align: center;
+  }
